@@ -1,0 +1,11 @@
+C:\Users\otavi\Downloads\Atividade\Atividade\bin\Debug\netcoreapp2.0\Atividade.deps.json
+C:\Users\otavi\Downloads\Atividade\Atividade\bin\Debug\netcoreapp2.0\Atividade.runtimeconfig.json
+C:\Users\otavi\Downloads\Atividade\Atividade\bin\Debug\netcoreapp2.0\Atividade.runtimeconfig.dev.json
+C:\Users\otavi\Downloads\Atividade\Atividade\bin\Debug\netcoreapp2.0\Atividade.dll
+C:\Users\otavi\Downloads\Atividade\Atividade\bin\Debug\netcoreapp2.0\Atividade.pdb
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.AssemblyInfo.cs
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.dll
+C:\Users\otavi\Downloads\Atividade\Atividade\obj\Debug\netcoreapp2.0\Atividade.pdb
